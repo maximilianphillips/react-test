@@ -1,0 +1,4 @@
+./api-server/node_modules
+./api-server/coverage
+
+./react-app/node_modules
